@@ -71,5 +71,6 @@ return {
     ["cocopapi57"] = true,
     ["GabrielDancerLight47"] = true,
     ["Playzwar4"] = true,
-    ["skibidiohioszz"] = true
+    ["skibidiohioszz"] = true,
+    ["CarterJelly2010"] = true
 }
