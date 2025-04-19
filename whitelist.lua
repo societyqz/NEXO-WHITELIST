@@ -59,5 +59,5 @@ return {
     ["Rpgsmain"] = true,
     ["Jebebs5"] = true,
     ["cuteako12345689"] = true,
-    ["ZeroWraithRogue84] = true
+    ["ZeroWraithRogue84"] = true
 }
