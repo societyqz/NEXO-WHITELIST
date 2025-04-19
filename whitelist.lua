@@ -69,5 +69,6 @@ return {
     ["DriftSkater2006"] = true,
     ["Eljan_Atillo3"] = true,
     ["cocopapi57"] = true,
-    ["GabrielDancerLight47" = true
+    ["GabrielDancerLight47"] = true,
+    ["Playzwar4"] = true
 }
