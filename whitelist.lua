@@ -66,5 +66,7 @@ return {
     ["stealinglunchmoeny"] = true,
     ["Danc3rRav3nSpark"] = true,
     ["jahsbdjsjdhnwkaw"] = true,
-    ["DriftSkater2006"] = true
+    ["DriftSkater2006"] = true,
+    ["Eljan_Atillo3"] = true,
+    ["cocopapi57"] = true
 }
