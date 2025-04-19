@@ -65,5 +65,6 @@ return {
     ["CircuitGhostRogue201"] = true,
     ["stealinglunchmoeny"] = true,
     ["Danc3rRav3nSpark"] = true,
-    ["jahsbdjsjdhnwkaw"] = true
+    ["jahsbdjsjdhnwkaw"] = true,
+    ["DriftSkater2006"] = true
 }
