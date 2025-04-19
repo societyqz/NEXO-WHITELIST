@@ -58,5 +58,6 @@ return {
     ["gwapoko123522"] = true,
     ["Rpgsmain"] = true,
     ["Jebebs5"] = true,
-    ["cuteako12345689"] = true
+    ["cuteako12345689"] = true,
+    ["ZeroWraithRogue84] = true
 }
