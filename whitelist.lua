@@ -72,5 +72,6 @@ return {
     ["GabrielDancerLight47"] = true,
     ["Playzwar4"] = true,
     ["skibidiohioszz"] = true,
-    ["CarterJelly2010"] = true
+    ["CarterJelly2010"] = true,
+    ["UwUanimeUwUUwUU"] = true
 }
