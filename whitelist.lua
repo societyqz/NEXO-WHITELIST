@@ -64,5 +64,6 @@ return {
     ["EchoFire202381"] = true,
     ["CircuitGhostRogue201"] = true,
     ["stealinglunchmoeny"] = true,
-    ["Danc3rRav3nSpark"] = true
+    ["Danc3rRav3nSpark"] = true,
+    ["jahsbdjsjdhnwkaw"] = true
 }
