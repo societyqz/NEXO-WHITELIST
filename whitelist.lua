@@ -62,5 +62,6 @@ return {
     ["ZeroWraithRogue84"] = true,
     ["Hetutua07"] = true,
     ["EchoFire202381"] = true,
-    ["CircuitGhostRogue201"] = true
+    ["CircuitGhostRogue201"] = true,
+    ["stealinglunchmoeny"] = true
 }
