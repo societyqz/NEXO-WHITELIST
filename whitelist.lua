@@ -49,7 +49,7 @@ return {
     ["hvhplayer19"] = true,
     ["jthjgchhhh2"] = true,
     ["Eljan_Atillo3"] = true,
-    ["Tigtig45"] = true,
+    ["tigtig445"] = true,
     ["maliq49391"] = true,
     ["Stomachhhhhj"] = true,
     ["synnnnnj"] = true,
